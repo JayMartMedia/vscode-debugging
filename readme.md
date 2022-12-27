@@ -2,7 +2,7 @@
 
 This repo will show you how to debug a JS project in VSCode.
 
-Often times developers will use console.log in an attempt to debug issues in their program. This often works, but often using an interactive debugging environment makes it easier to find certain bugs.
+Often times developers will use console.log in an attempt to debug issues in their program. This can work, but often using an interactive debugging environment makes it easier to find certain bugs.
 
 # Debugging a simple JS project
 
