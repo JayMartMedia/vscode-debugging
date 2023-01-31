@@ -6,7 +6,7 @@ Often times developers will use console.log in an attempt to debug issues in the
 
 # Debugging a simple JS project
 
-Check out the [js-project directory](./js-project/). If you prefer video form, you can watch this video for a walk through: {insert video link}
+Check out the readme in the [js-project directory](./js-project/). If you like or prefer content in video format, you can watch this video for a quick walk through: https://youtu.be/4UGyzRo8Dsk
 
 # Debugging a simple TS project
 
